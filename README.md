@@ -26,6 +26,7 @@ I'm a junior web dev with a strong interest in writing accessible code that empo
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="45" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="45" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="45" style="vertical-align:top; margin:4px">
+<img src="https://github.com/isaacrmoreno/devicon/blob/master/icons/git/git-plain.svg" alt="git" height="45" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="45" style="vertical-align:top; margin:4px">
 </div>
 
