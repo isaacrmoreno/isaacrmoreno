@@ -1,6 +1,7 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and encourages creative problem solving! 💭
+I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and applies clear communication and creative problem solving skills. 
+ 💭
 
 - 🌱 Currently Learning: C# 
 - 🥅 2021 Goals: Develop API for outdoor enthusiast.
