@@ -1,9 +1,9 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-I'm a junior web dev with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and encourages exploration amongst the great outdoors! 🏕️ 🌲
+I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and encourages exploration amongst the great outdoors! 🏕️ 🌲
 
-- 🌱 Currently Learning: C# fundamentals.
-- 🥅 2021 Goals: Develop API for Oregon Parks and Recreation Dept.
+- 🌱 Currently Learning: C# 
+- 🥅 2021 Goals: Develop API for outdoor enthusiast.
 - ⚡ Fun fact: I designed and sold _Honey Biden of Oats_ and _Cinnamon Toast Trump_ political cereal for the 2020 election.
 
 # Connect with me:
