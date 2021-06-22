@@ -3,7 +3,7 @@
 I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and applies clear communication and creative problem solving skills. 
  💭
 
-- 🌱 Currently Learning: C# 
+- 🌱 Currently Learning: React
 - 🥅 2021 Goals: Develop API for outdoor enthusiast.
 - ⚡ Fun fact: I designed and sold _Honey Biden of Oats_ and _Cinnamon Toast Trump_ political cereal for the 2020 election.
 
