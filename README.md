@@ -10,9 +10,15 @@ I'm a junior full-stack developer with a strong interest in writing accessible c
 # Connect with me:
 
 <a href="https://www.linkedin.com/in/isaacrmoreno/">
-<img src=https://www.siggis.be/wp-content/uploads/2018/01/linkedin-white-logo-png-14.png  width="130" alt="Follow @isaacrmoreno on Linkedin">
+<img src=https://www.siggis.be/wp-content/uploads/2018/01/linkedin-white-logo-png-14.png  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
 </a>
-
+  
+<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635462624708)/">
+<img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume"></a>
+  
+<a href="mailto:ipdxcreative@gmail.com">
+<img src=https://image.flaticon.com/icons/png/512/3617/3617143.png height="40" style="vertical-align:top; margin:4px" alt="Envelope Icon to email Isaac Moreno"</a>
+ 
 # Languages and Tools:
 
 <div>
