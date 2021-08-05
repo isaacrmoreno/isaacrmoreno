@@ -13,7 +13,7 @@ I'm a junior full-stack developer with a strong interest in writing accessible c
 <img src=https://www.siggis.be/wp-content/uploads/2018/01/linkedin-white-logo-png-14.png  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
 </a>
   
-<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635462624708)/">
+<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635464819938)/">
 <img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume"></a>
   
 <a href="mailto:ipdxcreative@gmail.com">
