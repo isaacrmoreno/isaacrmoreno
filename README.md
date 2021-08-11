@@ -3,7 +3,7 @@
 I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and applies clear communication and creative problem solving skills. 
  💭
 
-- 🌱 Currently Learning: React & Next.js
+- 🌱 Currently Learning: React & TypeScript
 - 🥅 2021 Goals: Develop API for outdoor enthusiast.
 - ⚡ Fun fact: I designed and sold _Honey Biden of Oats_ and _Cinnamon Toast Trump_ political cereal for the 2020 election.
 
@@ -31,6 +31,7 @@ I'm a junior full-stack developer with a strong interest in writing accessible c
 <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="45" style="vertical-align:top; margin:4px" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="45" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="45" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="45" style="vertical-align:top; margin:4px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="45" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="45" style="vertical-align:top; margin:4px">
