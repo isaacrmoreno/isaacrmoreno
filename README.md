@@ -1,19 +1,17 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-I'm a junior full-stack developer with a strong interest in writing accessible code that empowers groups of marginalized communities, promotes sustainability, and applies clear communication and creative problem solving skills. 
- 💭
-
-- 🌱 Currently Learning: React & TypeScript
-- 🥅 2021 Goals: Develop API for outdoor enthusiast.
-- ⚡ Fun fact: I designed and sold _Honey Biden of Oats_ and _Cinnamon Toast Trump_ political cereal for the 2020 election.
+- 🌱 Currently Learning: Storybook & TypeScript
+- 🥅 2021 Goals: Create React Native version of Modern Fish
+- ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
+- 💭 Quote of the month: Don't compare yourself with other people; compare yourself with who you were yesterday. - Jordan Peterson
 
 # Connect with me:
 
 <a href="https://www.linkedin.com/in/isaacrmoreno/">
-<img src=https://www.siggis.be/wp-content/uploads/2018/01/linkedin-white-logo-png-14.png  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
+<img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
 </a>
   
-<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635464819938)/">
+<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635467626614)/">
 <img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume"></a>
   
 <a href="mailto:ipdxcreative@gmail.com">
