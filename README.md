@@ -11,7 +11,7 @@
 <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
 </a>
   
-<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635467626614)/">
+<a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635468251704)/">
 <img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume"></a>
   
 <a href="mailto:ipdxcreative@gmail.com">
