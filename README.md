@@ -12,9 +12,10 @@
 </a>
   
 <a href="https://www.linkedin.com/in/isaacrmoreno/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbcixsBolCKVekvoltt8M8rMX7WIJB_QNM,1635470663501)/">
-<img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume"></a>
+<img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume">
+</a>
   
-<a href="mailto:ipdxcreative@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=isaacmoreno@duck.com">
 <img src=https://image.flaticon.com/icons/png/512/3617/3617143.png height="40" style="vertical-align:top; margin:4px" alt="Envelope Icon to email Isaac Moreno"</a>
  
 # Languages and Tools:
