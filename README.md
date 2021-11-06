@@ -1,9 +1,9 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-- 🌱 Currently Learning: Storybook & TypeScript
-- 🥅 2021 Goals: Create React Native version of Modern Fish
+- 🌱 Currently: Testing server endpoints 
+- 🥅 2021 Goals: Learn more about React Native
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
-- 💭 Quote of the month: Don't compare yourself with other people; compare yourself with who you were yesterday. - Jordan Peterson
+- 💭 Quote of the month: First tell yourself what kind of person you want to be, then do what you have to do - Epictetus
 
 # Connect with me:
 
