@@ -1,18 +1,14 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-- 🌱 Currently: Testing server endpoints 
-- 🥅 2021 Goals: Learn more about React Native
+- 🌱 Currently: Experimenting with Angular and diving deeper into Ionic
+- 🥅 2022 Goals: Build and deploy app with Expo
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
-- 💭 Quote of the month: First tell yourself what kind of person you want to be, then do what you have to do - Epictetus
+- 💭 Quote of the month: Walk tall and gaze forthrightly ahead. Dare to be dangerous. - Jordan B. Peterson, 12 Rules for Life
 
 # Connect with me:
 
 <a href="https://www.linkedin.com/in/isaacrmoreno/">
 <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmyclouddoor.com%2Fwp-content%2Fuploads%2F2019%2F11%2FLinkedin-logo.png&f=1&nofb=1  height="40" style="vertical-align:top; margin:4px" alt="Follow @isaacrmoreno on Linkedin"> 
-</a>
-  
-<a href="https://docs.google.com/document/d/1_9ujY5LV9fdo2Tl-JqijpM11Qp3AvArTZrHTJV7iY-E/edit?usp=sharing">
-<img src=https://image.flaticon.com/icons/png/512/942/942748.png height="40" style="vertical-align:top; margin:4px" alt="Isaac Morenos Resume">
 </a>
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isaacmoreno@duck.com">
