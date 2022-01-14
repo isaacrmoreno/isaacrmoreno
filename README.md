@@ -1,9 +1,9 @@
 # Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
 
-- 🌱 Currently: Experimenting with Angular and diving deeper into Ionic
-- 🥅 2022 Goals: Build and deploy app with Expo
+- 🌱 Currently: Reading, learning & building.
+- 🥅 2022 Goals: Build and deploy Expo App
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
-- 💭 Quote of the month: Walk tall and gaze forthrightly ahead. Dare to be dangerous. - Jordan B. Peterson, 12 Rules for Life
+- 💭 Quote of the month: “If you fulfill your obligations everyday you don't need to worry about the future.” ― Jordan Peterson
 
 # Connect with me:
 
