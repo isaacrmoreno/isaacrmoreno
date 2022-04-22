@@ -12,7 +12,7 @@
 </a>
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isaacmoreno@duck.com">
-<img src=https://image.flaticon.com/icons/png/512/3617/3617143.png height="40" style="vertical-align:top; margin:4px" alt="Envelope Icon to email Isaac Moreno"></a>
+<img src="https://cdn-icons-png.flaticon.com/512/3617/3617143.png" height="40" style="vertical-align:top; margin:4px" alt="Email Isaac Moreno"></a>
  
 # Languages and Tools:
 
