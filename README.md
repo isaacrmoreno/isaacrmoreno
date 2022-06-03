@@ -1,5 +1,4 @@
-# Howdy! I'm Isaac Moreno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </div>
-
+# Howdy! I'm Isaac Moreno! 
 - 🌱 Currently: Reading, learning & building.
 - 🥅 2022 Goals: Build and deploy Expo App
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
