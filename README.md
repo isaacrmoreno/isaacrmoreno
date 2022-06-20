@@ -1,8 +1,8 @@
 # Howdy! I'm Isaac Moreno! 
 - 🌱 Currently: Reading, learning & building.
-- 🥅 2022 Goals: Build and deploy Expo App
+- 🥅 2022 Goals: Build and deploy Expo App.
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
-- 💭 Quote of the month: “If you fulfill your obligations everyday you don't need to worry about the future.” ― Jordan Peterson
+- 💭 Quote of the month: “If you are not willing to be a fool, you can't become a master.” ― Jordan Peterson
 
 # Connect with me:
 
