@@ -1,6 +1,6 @@
 # Howdy! I'm Isaac Moreno! 
 - 🌱 Currently: Reading, learning & building.
-- 🥅 2022 Goals: Build and deploy Expo App.
+- 🥅 2022 Goal: Build and deploy React Native Expo App to App and Play Store... New badge achieved [here](https://quailapp.vercel.app/)! 
 - ✨ Hobbies: Bouldering 🪨, Biking 🚴‍♂️ & Fishing 🎣
 - 💭 Quote of the month: “If you are not willing to be a fool, you can't become a master.” ― Jordan Peterson
 
