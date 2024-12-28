@@ -1,8 +1,8 @@
 # Howdy! I'm [Isaac Moreno](https://isaacmoreno.vercel.app/about)!
 
-- 🌱 Currently: Developing/scaling [Valley Leads](https://valleyleads.co).
+- 🌱 Currently: Scaling [Cinder Studio](https://www.cinderstudio.co/).
 - ✨ Hobbies: Biking 🚴‍♂️, Drawing 🎨, and Hiking 🌲🌵
-- 💭 Quote of the month: <i>“Don’t just sit there. Do something. The answers will follow.”</i> ― Mark Manson
+- 💭 Quote of the month: <i>“Compare yourself to who you were yesterday, not to who someone else is today.”</i> ― Jordan Peterson
 
 ## Experience:
 
