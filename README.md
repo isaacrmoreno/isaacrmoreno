@@ -1,4 +1,4 @@
-# Howdy! I'm [Isaac Moreno](https://isaacmoreno.vercel.app/about)!
+# Howdy! I'm Isaac Moreno!
 
 - 🌱 Currently Scaling: [Call Buddi](https://callbuddi.com/)
 - ✨ Hobbies: Biking 🚴‍♂️, Drawing 🎨, and Hiking 🌲🌵
