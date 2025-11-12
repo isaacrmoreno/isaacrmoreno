@@ -1,6 +1,5 @@
 # Howdy! I'm Isaac Moreno!
 
-- 🌱 Currently Scaling: [Call Buddi](https://callbuddi.com/)
 - ✨ Hobbies: Biking 🚴‍♂️, Drawing 🎨, and Hiking 🌲🌵
 - 💭 Quote of the month: <i>“Compare yourself to who you were yesterday, not to who someone else is today.”</i> ― Jordan Peterson
 
